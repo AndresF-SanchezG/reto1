@@ -1,0 +1,63 @@
+main {
+  
+    width: 100%;
+    height: 100vh;
+        
+}
+
+.main-container {
+    width: 50%;
+    height: 70%;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.img-container {
+    width: 50%;
+    height: 100%;
+    border-radius: 10px 0 0 10px;
+}
+
+.info-container--titles {
+    
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    border-radius: 0 10px 10px 0;
+   
+}
+
+.info-container--titles h6 {
+    
+    font-size: 1.5rem;
+}
+
+.info-container--titles h1 {
+    margin-top: 25px;
+    font-size: 4.5rem;
+    line-height: 4.5rem;
+}
+
+.info-container--titles p {
+    font-size: 2.0rem;
+    line-height: 3rem;
+}
+
+.info-container--titles .saving-product {
+    margin-top: 30px;
+    font-size: 4.0rem;
+
+}
+
+.saving-product span {
+    font-size: 1.5rem;
+    padding: 3px;
+    margin-left: 20px;
+}
+
+.add-card--botton {
+    margin-top: 20px;
+}

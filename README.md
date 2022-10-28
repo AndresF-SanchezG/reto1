@@ -1,4 +1,4 @@
-# reto2
+# reto1
 <<<<<<< HEAD
 <<<<<<< HEAD
 Este desafío consiste en desarrollar una tarjeta de vista previa de un producto y lograr que se parezca lo más posible al diseño suministrado

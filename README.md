@@ -18,7 +18,7 @@ This challenge is to build the product preview card component and get it looking
 
 # Author
 
-- Autor - [@AndresF-SanchezG](https://github.com/AndresF-Sanchez)
+- Autor - [@AndresF-SanchezG](https://github.com/AndresF-SanchezG)
 - School - [Frontend Mentor](https://www.frontendmentor.io/profile/AndresF-SanchezG)
 - Challenge - [Product preview card component](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa/hub)
 

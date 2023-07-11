@@ -4,9 +4,8 @@ This challenge is to build the product preview card component and get it looking
 
 # Targets
 
+- Set card structure using html5.
 - Create and apply styles with CSS that can be reused.
-- Apply media queries to adapt device views.
-- Analyze the architecture of the project starting from a wireframe.
 
 # Screenshot
 

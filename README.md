@@ -14,12 +14,12 @@ This challenge is to build the product preview card component and get it looking
 
 # Links
 
-- Live Site URL: [Vercel deployed app](https://proyecto3-batatabit.vercel.app/)
+- Live Site URL: [Vercel deployed app](https://reto1-brown.vercel.app/)
 
 # Author
 
-- Tutor - Diego De Granda [@degranda10](https://twitter.com/degranda10?t=hnoz6IUoxadjVEQux9Zzdw&s=09)
-- School - [Platzi](https://www.platzi.com)
-- Curse - [Curso de Responsive Design: Maquetación Mobile First](https://platzi.com/cursos/mobile-first/)
-- Github - [@AndresF-SanchezG](https://github.com/AndresF-SanchezG)
+- Autor - [@AndresF-SanchezG](https://github.com/AndresF-Sanchez)
+- School - [Frontend Mentor](https://www.frontendmentor.io/profile/AndresF-SanchezG)
+- Challenge - [Product preview card component](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa/hub)
+
 

@@ -1,6 +1,6 @@
 # Product preview card component
 
-The frontend of a website will be created based on its wireframe, its architecture will be analyzed and the code will be built for each of its parts so that it adapts to any user device.
+This challenge is to build the product preview card component and get it looking as close to the design as possible.
 
 # Targets
 

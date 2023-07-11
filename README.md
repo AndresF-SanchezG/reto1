@@ -9,7 +9,8 @@ This challenge is to build the product preview card component and get it looking
 
 # Screenshot
 
-![Captura1](https://github.com/AndresF-SanchezG/proyecto3-batatabit/assets/113924667/b1a5501c-3b9c-40c4-9d8a-435c36d003d6) 
+![Captura2](https://github.com/AndresF-SanchezG/reto1/assets/113924667/e799ed66-a83f-460a-aad9-02e1302626a4)
+
 
 # Links
 
